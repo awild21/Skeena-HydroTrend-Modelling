@@ -1,0 +1,5 @@
+Converted 30Yr Annual Mean Bedload kg/s
+ACCESS8_5
+2011.          443.63055978
+2041.          330.32090309
+2071.          294.19288009
