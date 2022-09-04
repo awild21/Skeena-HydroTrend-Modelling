@@ -1,0 +1,5 @@
+Converted 30Yr Annual Mean Bedload kg/s
+CANESM8_5
+2011.          443.64
+2041.          377.13512599
+2071.          350.58346017

@@ -1,0 +1,8 @@
+30Yr Annual Mean Suspended Load in kg/s 1)basin 2)glacial 3)total
+CANESM8_5
+2011
+215.49, 197.37, 412.94
+2041
+242.62, 90.4, 333.02
+2071
+439.25, 41.15, 480.4
