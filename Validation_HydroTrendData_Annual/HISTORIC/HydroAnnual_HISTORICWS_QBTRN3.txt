@@ -1,0 +1,8 @@
+Converted 30Yr Annual Mean Bedload kg/s
+HISTORIC
+ECCC
+1981.          214.47446305
+ACCESS
+1981.          262.63106714
+CANESM
+1981.          277.33384069
